@@ -1,5 +1,6 @@
 body {
   background-color: #FFC0E7;
+  background-image: url("paper.gif");
 }
 
 h1 {
@@ -11,6 +12,5 @@ p {
   font-family: verdana;
   font-size: 20px;
   
-  
-  
-}
+  }
+
