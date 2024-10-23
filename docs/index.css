@@ -1,10 +1,11 @@
 body {
-  background-color: #FFC0E7;
-  background-image: url("paper.gif");
+    background-image: url("https://assets.ptimgs.com/ptimgs/ab/images/dp/wcm/202424/0064/hello-kitty-wallpaper-o.jpg");
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 h1 {
-  color: #0000FF;
+  color: purple;
   text-align: center;
 }
 
@@ -13,4 +14,34 @@ p {
   font-size: 20px;
   
   }
-
+.textBox{
+    background-color: pink;
+    text-align:left;
+    padding:2em;
+    margin-block: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.textBoxHeading {
+    background-color: pink;
+    text-align:center;
+    padding: 5px;
+    margin-block: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+img {
+    width: 150%;
+}
+img.line {
+    margin-left:2em;
+    margin-right: 2em;
+}
+.textBoxImage{
+    background-color: pink;
+    text-align:center;
+    padding:2em;
+    margin-block: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
