@@ -24,7 +24,7 @@ p {
 }
 .textBoxHeading {
     background-color: pink;
-    text-align:center;
+    text-align:Center;
     padding: 5px;
     margin-block: 100px;
     margin-left: 250px;
